@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Linkedin Auto Connect",
+    "description": "A simple Linkedin auto connect extension",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
